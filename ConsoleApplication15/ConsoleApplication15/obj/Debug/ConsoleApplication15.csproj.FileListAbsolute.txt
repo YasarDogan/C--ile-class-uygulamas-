@@ -1,0 +1,6 @@
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+D:\ornekler\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
